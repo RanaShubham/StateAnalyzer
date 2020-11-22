@@ -7,6 +7,11 @@ class StateCensusCsv:
         self.DensityPerSqKm = ordered_dict.get("DensityPerSqKm")
 
     def display(self):
+        '''
+            Prints the object data.
+            :return: None
+            :rtype: None
+         '''
         print('State:{}, Population:{}, AreaInSqKm:{}, DensityPerSqKm:{}'.format(
             self.State,
             self.Population,
@@ -15,4 +20,10 @@ class StateCensusCsv:
         ))
 
     def compatible_with_file(self):
-            return  self.State and self.Population and self.AreaInSqKm and self.DensityPerSqKm
+        '''
+           Returns True if all instance variables of this object are not None. Otherwise returns False.
+
+           :return: Returns True if all instance variables of this object are not None. Otherwise returns False.
+           :rtype: bool
+        '''
+        return  self.State and self.Population and self.AreaInSqKm and self.DensityPerSqKm
