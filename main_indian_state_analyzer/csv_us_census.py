@@ -1,4 +1,4 @@
-from Indian_state_analyzer.main_indian_state_analyzer.csv_pojo import PojoCsv
+from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
 
 class USCensusCsv(PojoCsv):
 
