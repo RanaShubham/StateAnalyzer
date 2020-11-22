@@ -1,4 +1,6 @@
-class StateCensusCsv:
+from Indian_state_analyzer.main_indian_state_analyzer.csv_pojo import PojoCsv
+
+class StateCensusCsv(PojoCsv):
 
     def __init__(self, ordered_dict):
         self.State = ordered_dict.get("State")

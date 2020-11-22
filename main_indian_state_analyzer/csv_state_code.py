@@ -1,4 +1,6 @@
-class StateCodeCsv:
+from Indian_state_analyzer.main_indian_state_analyzer.csv_pojo import PojoCsv
+
+class StateCodeCsv(PojoCsv):
 
     def __init__(self, ordered_dict):
         self.SrNo = ordered_dict.get("SrNo")

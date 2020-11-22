@@ -2,8 +2,9 @@ import  enum
 class ExceptionType(enum.Enum):
     IncorrectDelimiterException = "CSV File format incorrect.."
     IncorrectFileTypeException = "File type unrecognized."
-    IncorrectCsvHeaderException = "File headers unrecognized."
-    IncorrectFilePathException = "File path incorrect."
+    InvalidCsvHeadersException = "File headers unrecognized or pojo class incompatible."
+    NoSuchFileException = "File path incorrect."
+    InvalidPojoClassException = "Required pojo class not available."
 
 class CsvReaderException(Exception):
     def __init__(self, *args):
