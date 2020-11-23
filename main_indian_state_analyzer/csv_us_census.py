@@ -1,9 +1,12 @@
 import json
+import logging
 
 from Indian_state_analyzer.my_csv_analyzer.csv_analyzer import CsvAnalyzer
 from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
 
 class USCensusCsv(PojoCsv):
+
+    logging.basicConfig(filename='./USCensusTest.log', level=logging.DEBUG,format='%(asctime)s | %(levelname)s | %(message)s')
 
     CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
     JSON_FILE_BY_STATE = "../resources/UsCensusData_sortedByState.json"
@@ -69,6 +72,9 @@ class USCensusCsv(PojoCsv):
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: state.State)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE)
+        for each in my_list:
+            logging.debug(each.State)
+        logging.debug("---------------------------------------------------------------------------------------------------------------------")
         return my_list
 
     @staticmethod
@@ -81,6 +87,9 @@ class USCensusCsv(PojoCsv):
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: state.State_Id)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_CODE)
+        for each in my_list:
+            logging.debug(each.State_Id)
+        logging.debug("---------------------------------------------------------------------------------------------------------------------")
         return my_list
 
     @staticmethod
@@ -93,6 +102,9 @@ class USCensusCsv(PojoCsv):
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Housing_Density), reverse=True)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_HOUSING_DENSITY)
+        for each in my_list:
+            logging.debug(each.Housing_Density)
+        logging.debug("---------------------------------------------------------------------------------------------------------------------")
         return my_list
 
     @staticmethod
@@ -105,6 +117,9 @@ class USCensusCsv(PojoCsv):
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Population_Density), reverse=True)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_POPULATION_DENSITY)
+        for each in my_list:
+            logging.debug(each.Population_Density)
+        logging.debug("----------------------------------------------------------------------------------------------------------------------------")
         return my_list
 
     @staticmethod
@@ -117,6 +132,9 @@ class USCensusCsv(PojoCsv):
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Land_area), reverse=True)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_SIZE)
+        for each in my_list:
+            logging.debug(each.Land_area)
+        logging.debug("-------------------------------------------------------------------------------------------------------------")
         return my_list
 
 
@@ -139,7 +157,6 @@ def driver_function():
     USCensusCsv.get_list_sorted_by_state_housing_density()
     USCensusCsv.get_list_sorted_by_state_population_density()
     USCensusCsv.get_list_sorted_by_state_size()
-
 
 if __name__ == "__main__":
     driver_function()

@@ -1,4 +1,5 @@
 import pytest
+import  logging
 
 from Indian_state_analyzer.my_csv_analyzer.csv_reader_exception import CsvReaderException, ExceptionType
 from Indian_state_analyzer.main_indian_state_analyzer.csv_state_census import StateCensusCsv
@@ -21,6 +22,7 @@ absent_file = "../resources/nofile.csv"
     ]
 )
 def test_read_csv_data_should_return_number_of_records_in_file(my_file, pojo_class, number_of_records):
+    logging.debug("{} has {} records".format(my_file, number_of_records))
     assert CsvAnalyzer.read_csv_data(my_file, pojo_class).__len__() == number_of_records
 
 @pytest.mark.parametrize(
@@ -36,4 +38,5 @@ def test_read_csv_data_should_return_number_of_records_in_file(my_file, pojo_cla
 def test_read_csv_data_when_given_inappropriate_file_should_raise_CsvReaderException(my_file, pojo_class, error_message):
     with pytest.raises(CsvReaderException) as csv_error:
         CsvAnalyzer.read_csv_data(my_file, pojo_class)
+        logging.debug("Pojo_Class:{}, File:{}, error_messages:{}".format(pojo_class, my_file, error_message))
     assert csv_error.value.message == error_message
