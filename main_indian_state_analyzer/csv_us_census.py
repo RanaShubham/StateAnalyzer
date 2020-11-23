@@ -8,7 +8,9 @@ class USCensusCsv(PojoCsv):
     CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
     JSON_FILE_BY_STATE = "./UsCensusData_sortedByState.json"
     JSON_FILE_BY_STATE_CODE = "./UsCensusData_sortedByStateCode.json"
-    JSON_FILE_BY_MOST_POPULATION = "./UsCensusData_sortedByMostPopulation.json"
+    JSON_FILE_BY_MOST_HOUSING_DENSITY = "./UsCensusData_sortedByMostHousingDensity.json"
+    JSON_FILE_BY_MOST_POPULATION_DENSITY = "./UsCensusData_sortedByMostPopulationDensity.json"
+    JSON_FILE_BY_STATE_SIZE = "./UsCensusData_sortedByStateSize.json"
 
     def __init__(self, ordered_dict):
         self.State_Id = ordered_dict.get("State Id")
@@ -80,7 +82,7 @@ class USCensusCsv(PojoCsv):
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_CODE)
 
     @staticmethod
-    def get_list_sorted_by_state_housing_denisty():
+    def get_list_sorted_by_state_housing_density():
         '''
             Sorts the list of  objects of this type according to state population in ascending order and saves to json file.
             :return: Sorted object list
@@ -88,7 +90,29 @@ class USCensusCsv(PojoCsv):
         '''
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Housing_Density), reverse=True)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_POPULATION)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_HOUSING_DENSITY)
+
+    @staticmethod
+    def get_list_sorted_by_state_population_density():
+        '''
+            Sorts the list of  objects of this type according to state population in ascending order and saves to json file.
+            :return: Sorted object list
+            :rtype: list
+        '''
+        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list.sort(key=lambda state: float(state.Population_Density), reverse=True)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_POPULATION_DENSITY)
+
+    @staticmethod
+    def get_list_sorted_by_state_size():
+        '''
+            Sorts the list of  objects of this type according to state population in ascending order and saves to json file.
+            :return: Sorted object list
+            :rtype: list
+        '''
+        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list.sort(key=lambda state: float(state.Land_area), reverse=True)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_SIZE)
 
 
 def save_sorted_to_json(sorted_list, sorted_json):
@@ -107,7 +131,9 @@ def save_sorted_to_json(sorted_list, sorted_json):
 def driver_function():
     USCensusCsv.get_list_sorted_by_state()
     USCensusCsv.get_list_sorted_by_state_code()
-    USCensusCsv.get_list_sorted_by_state_housing_denisty()
+    USCensusCsv.get_list_sorted_by_state_housing_density()
+    USCensusCsv.get_list_sorted_by_state_population_density()
+    USCensusCsv.get_list_sorted_by_state_size()
 
 
 if __name__ == "__main__":
