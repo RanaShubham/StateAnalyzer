@@ -1,6 +1,6 @@
 from abc import  *
 
-class PojoCsv(ABC):
+class CsvHandler(ABC):
     '''
         Interface for all the pojo classes for csv files to implement.
     '''

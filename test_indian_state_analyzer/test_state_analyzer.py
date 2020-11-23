@@ -2,10 +2,10 @@ import pytest
 import  logging
 
 from Indian_state_analyzer.my_csv_analyzer.csv_reader_exception import CsvReaderException, ExceptionType
-from Indian_state_analyzer.main_indian_state_analyzer.csv_state_census import StateCensusCsv
-from Indian_state_analyzer.main_indian_state_analyzer.csv_state_code import StateCodeCsv
+from Indian_state_analyzer.main_indian_state_analyzer.csv_state_census import StateCensusCsvHandler
+from Indian_state_analyzer.main_indian_state_analyzer.csv_state_code import StateCodeCsvHandler
 from Indian_state_analyzer.my_csv_analyzer.csv_analyzer import CsvAnalyzer
-from Indian_state_analyzer.main_indian_state_analyzer.csv_us_census import USCensusCsv
+from Indian_state_analyzer.main_indian_state_analyzer.csv_us_census import USCensusCsvHandler
 
 state_census_data_file = "../resources/IndiaStateCensusData.csv"
 state_code_data_file = "../resources/IndiaStateCode.csv"
@@ -16,9 +16,9 @@ absent_file = "../resources/nofile.csv"
 
 @pytest.mark.parametrize(
     'my_file, pojo_class,number_of_records', [
-        (us_census_data, USCensusCsv, 51),
-        (state_code_data_file, StateCodeCsv, 37),
-        (state_census_data_file, StateCensusCsv, 29)
+        (us_census_data, USCensusCsvHandler, 51),
+        (state_code_data_file, StateCodeCsvHandler, 37),
+        (state_census_data_file, StateCensusCsvHandler, 29)
     ]
 )
 def test_read_csv_data_should_return_number_of_records_in_file(my_file, pojo_class, number_of_records):
@@ -27,11 +27,11 @@ def test_read_csv_data_should_return_number_of_records_in_file(my_file, pojo_cla
 
 @pytest.mark.parametrize(
     'my_file, pojo_class, error_message', [
-        (wrong_delimiter_file,   StateCodeCsv,    ExceptionType.IncorrectDelimiterException),
-        (wrong_type_file,   StateCodeCsv,   ExceptionType.IncorrectFileTypeException),
-        (state_census_data_file,    StateCodeCsv,   ExceptionType.InvalidCsvHeadersException),
-        (us_census_data,     StateCodeCsv,   ExceptionType.InvalidCsvHeadersException),
-        (absent_file,   StateCodeCsv,    ExceptionType.NoSuchFileException),
+        (wrong_delimiter_file, StateCodeCsvHandler, ExceptionType.IncorrectDelimiterException),
+        (wrong_type_file, StateCodeCsvHandler, ExceptionType.IncorrectFileTypeException),
+        (state_census_data_file, StateCodeCsvHandler, ExceptionType.InvalidCsvHeadersException),
+        (us_census_data, StateCodeCsvHandler, ExceptionType.InvalidCsvHeadersException),
+        (absent_file, StateCodeCsvHandler, ExceptionType.NoSuchFileException),
         (us_census_data,    "str",     ExceptionType.InvalidPojoClassException)
     ]
 )

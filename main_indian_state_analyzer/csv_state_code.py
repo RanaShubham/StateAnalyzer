@@ -1,6 +1,6 @@
-from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
+from Indian_state_analyzer.my_csv_analyzer.csv_pojo import CsvHandler
 
-class StateCodeCsv(PojoCsv):
+class StateCodeCsvHandler(CsvHandler):
 
     FILE_SORTED_BY_STATE = "./csv_state_code.json"
 

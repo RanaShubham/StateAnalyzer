@@ -2,11 +2,11 @@ import json
 import logging
 
 from Indian_state_analyzer.my_csv_analyzer.csv_analyzer import CsvAnalyzer
-from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
+from Indian_state_analyzer.my_csv_analyzer.csv_pojo import CsvHandler
 
-class USCensusCsv(PojoCsv):
+logging.basicConfig(filename='./USCensusTest.log', level=logging.DEBUG, format='%(asctime)s | %(levelname)s | %(message)s')
 
-    logging.basicConfig(filename='./USCensusTest.log', level=logging.DEBUG,format='%(asctime)s | %(levelname)s | %(message)s')
+class USCensusCsvHandler(CsvHandler):
 
     CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
     JSON_FILE_BY_STATE = "../resources/UsCensusData_sortedByState.json"
@@ -60,7 +60,7 @@ class USCensusCsv(PojoCsv):
             :return: List of objects of this type.
             :rtype: list
         '''
-        return CsvAnalyzer.read_csv_data(USCensusCsv.CSV_FILE_UNSORTED, USCensusCsv)
+        return CsvAnalyzer.read_csv_data(USCensusCsvHandler.CSV_FILE_UNSORTED, USCensusCsvHandler)
 
     @staticmethod
     def get_list_sorted_by_state():
@@ -69,9 +69,9 @@ class USCensusCsv(PojoCsv):
             :return: Sorted object list
             :rtype: list
         '''
-        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list = USCensusCsvHandler.get_object_list_from_csv()
         my_list.sort(key=lambda state: state.State)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE)
+        save_sorted_to_json(my_list, USCensusCsvHandler.JSON_FILE_BY_STATE)
         for each in my_list:
             logging.debug(each.State)
         logging.debug("---------------------------------------------------------------------------------------------------------------------")
@@ -84,9 +84,9 @@ class USCensusCsv(PojoCsv):
             :return: Sorted object list
             :rtype: list
         '''
-        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list = USCensusCsvHandler.get_object_list_from_csv()
         my_list.sort(key=lambda state: state.State_Id)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_CODE)
+        save_sorted_to_json(my_list, USCensusCsvHandler.JSON_FILE_BY_STATE_CODE)
         for each in my_list:
             logging.debug(each.State_Id)
         logging.debug("---------------------------------------------------------------------------------------------------------------------")
@@ -99,9 +99,9 @@ class USCensusCsv(PojoCsv):
             :return: Sorted object list
             :rtype: list
         '''
-        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list = USCensusCsvHandler.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Housing_Density), reverse=True)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_HOUSING_DENSITY)
+        save_sorted_to_json(my_list, USCensusCsvHandler.JSON_FILE_BY_MOST_HOUSING_DENSITY)
         for each in my_list:
             logging.debug(each.Housing_Density)
         logging.debug("---------------------------------------------------------------------------------------------------------------------")
@@ -114,9 +114,9 @@ class USCensusCsv(PojoCsv):
             :return: Sorted object list
             :rtype: list
         '''
-        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list = USCensusCsvHandler.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Population_Density), reverse=True)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_POPULATION_DENSITY)
+        save_sorted_to_json(my_list, USCensusCsvHandler.JSON_FILE_BY_MOST_POPULATION_DENSITY)
         for each in my_list:
             logging.debug(each.Population_Density)
         logging.debug("----------------------------------------------------------------------------------------------------------------------------")
@@ -129,9 +129,9 @@ class USCensusCsv(PojoCsv):
             :return: Sorted object list
             :rtype: list
         '''
-        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list = USCensusCsvHandler.get_object_list_from_csv()
         my_list.sort(key=lambda state: float(state.Land_area), reverse=True)
-        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_SIZE)
+        save_sorted_to_json(my_list, USCensusCsvHandler.JSON_FILE_BY_STATE_SIZE)
         for each in my_list:
             logging.debug(each.Land_area)
         logging.debug("-------------------------------------------------------------------------------------------------------------")
@@ -152,11 +152,11 @@ def save_sorted_to_json(sorted_list, sorted_json):
 
 
 def driver_function():
-    USCensusCsv.get_list_sorted_by_state()
-    USCensusCsv.get_list_sorted_by_state_code()
-    USCensusCsv.get_list_sorted_by_state_housing_density()
-    USCensusCsv.get_list_sorted_by_state_population_density()
-    USCensusCsv.get_list_sorted_by_state_size()
+    USCensusCsvHandler.get_list_sorted_by_state()
+    USCensusCsvHandler.get_list_sorted_by_state_code()
+    USCensusCsvHandler.get_list_sorted_by_state_housing_density()
+    USCensusCsvHandler.get_list_sorted_by_state_population_density()
+    USCensusCsvHandler.get_list_sorted_by_state_size()
 
 if __name__ == "__main__":
     driver_function()

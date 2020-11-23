@@ -5,6 +5,7 @@ class ExceptionType(enum.Enum):
     InvalidCsvHeadersException = "File headers unrecognized or pojo class incompatible."
     NoSuchFileException = "File path incorrect."
     InvalidPojoClassException = "Required pojo class not available."
+    MiscException = "Something went wrong while reading csv."
 
 class CsvReaderException(Exception):
     def __init__(self, *args):
