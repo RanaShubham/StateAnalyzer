@@ -7,6 +7,8 @@ class USCensusCsv(PojoCsv):
 
     CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
     JSON_FILE_BY_STATE = "./UsCensusData_sortedByState.json"
+    JSON_FILE_BY_STATE_CODE = "./UsCensusData_sortedByStateCode.json"
+
 
     def __init__(self, ordered_dict):
         self.State_Id = ordered_dict.get("State Id")
@@ -58,16 +60,27 @@ class USCensusCsv(PojoCsv):
     @staticmethod
     def get_list_sorted_by_state():
         '''
-            Sorts the list of  objects of this type according to state in ascending order.
+            Sorts the list of  objects of this type according to state in ascending order and saves to json file.
             :return: Sorted object list
             :rtype: list
         '''
         my_list = USCensusCsv.get_object_list_from_csv()
         my_list.sort(key=lambda state: state.State)
-        save_sorted_to_json(my_list)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE)
+
+    @staticmethod
+    def get_list_sorted_by_state_code():
+        '''
+            Sorts the list of  objects of this type according to state code in ascending order and saves to json file.
+            :return: Sorted object list
+            :rtype: list
+        '''
+        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list.sort(key=lambda state: state.State_Id)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_CODE)
 
 
-def save_sorted_to_json(sorted_list):
+def save_sorted_to_json(sorted_list, sorted_json):
     '''
         Writes the list of objects of this type in json file.
         :param my_list: List of objects of this type.
@@ -75,13 +88,14 @@ def save_sorted_to_json(sorted_list):
         :return: None
         :rtype: None
     '''
-    with open(USCensusCsv.JSON_FILE_BY_STATE, "w") as file:
+    with open(sorted_json, "w") as file:
         for object in sorted_list:
             file.write(json.dumps(object.__dict__, indent=4))
 
 
 def driver_function():
     USCensusCsv.get_list_sorted_by_state()
+    USCensusCsv.get_list_sorted_by_state_code()
 
 
 if __name__ == "__main__":

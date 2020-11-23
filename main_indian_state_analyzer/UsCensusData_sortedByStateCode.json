@@ -1,0 +1,460 @@
+{
+    "State_Id": "AK",
+    "State": "Alaska",
+    "Housing_units": "306967",
+    "Total_area": "1723338.01",
+    "Water_area": "245383.68",
+    "Land_area": "1477954.35",
+    "Population_Density": "0.46",
+    "Housing_Density": "0.19"
+}{
+    "State_Id": "AL",
+    "State": "Alabama",
+    "Housing_units": "2171853",
+    "Total_area": "135767.46",
+    "Water_area": "4596.56",
+    "Land_area": "131170.90",
+    "Population_Density": "36.45",
+    "Housing_Density": "16.56"
+}{
+    "State_Id": "AR",
+    "State": "Arkansas",
+    "Housing_units": "1316299",
+    "Total_area": "137731.91",
+    "Water_area": "2960.54",
+    "Land_area": "134771.37",
+    "Population_Density": "21.62",
+    "Housing_Density": "9.77"
+}{
+    "State_Id": "AZ",
+    "State": "Arizona",
+    "Housing_units": "2844526",
+    "Total_area": "295233.74",
+    "Water_area": "1026.21",
+    "Land_area": "294207.53",
+    "Population_Density": "21.74",
+    "Housing_Density": "9.65"
+}{
+    "State_Id": "CA",
+    "State": "California",
+    "Housing_units": "13680081",
+    "Total_area": "423967.74",
+    "Water_area": "20501.12",
+    "Land_area": "403466.62",
+    "Population_Density": "92.32",
+    "Housing_Density": "33.90"
+}{
+    "State_Id": "CO",
+    "State": "Colorado",
+    "Housing_units": "2212898",
+    "Total_area": "269601.56",
+    "Water_area": "1170.11",
+    "Land_area": "268431.46",
+    "Population_Density": "18.73",
+    "Housing_Density": "8.26"
+}{
+    "State_Id": "CT",
+    "State": "Connecticut",
+    "Housing_units": "1487891",
+    "Total_area": "14357.38",
+    "Water_area": "1815.74",
+    "Land_area": "12541.66",
+    "Population_Density": "284.98",
+    "Housing_Density": "118.65"
+}{
+    "State_Id": "DC",
+    "State": "District of Columbia",
+    "Housing_units": "296719",
+    "Total_area": "177.00",
+    "Water_area": "18.88",
+    "Land_area": "158.12",
+    "Population_Density": "3805.61",
+    "Housing_Density": "1876.61"
+}{
+    "State_Id": "DE",
+    "State": "Delaware",
+    "Housing_units": "405885",
+    "Total_area": "6445.76",
+    "Water_area": "1399.06",
+    "Land_area": "5046.70",
+    "Population_Density": "177.92",
+    "Housing_Density": "80.43"
+}{
+    "State_Id": "FL",
+    "State": "Florida",
+    "Housing_units": "8989580",
+    "Total_area": "170311.79",
+    "Water_area": "31424.19",
+    "Land_area": "138887.59",
+    "Population_Density": "135.37",
+    "Housing_Density": "64.71"
+}{
+    "State_Id": "GA",
+    "State": "Georgia",
+    "Housing_units": "4088801",
+    "Total_area": "153910.54",
+    "Water_area": "4951.21",
+    "Land_area": "148959.36",
+    "Population_Density": "65.02",
+    "Housing_Density": "27.45"
+}{
+    "State_Id": "HI",
+    "State": "Hawaii",
+    "Housing_units": "519508",
+    "Total_area": "28313.05",
+    "Water_area": "11678.50",
+    "Land_area": "16634.55",
+    "Population_Density": "81.78",
+    "Housing_Density": "31.24"
+}{
+    "State_Id": "IA",
+    "State": "Iowa",
+    "Housing_units": "1336417",
+    "Total_area": "145746.02",
+    "Water_area": "1076.61",
+    "Land_area": "144669.41",
+    "Population_Density": "21.04",
+    "Housing_Density": "9.23"
+}{
+    "State_Id": "ID",
+    "State": "Idaho",
+    "Housing_units": "667796",
+    "Total_area": "216442.74",
+    "Water_area": "2397.89",
+    "Land_area": "214044.85",
+    "Population_Density": "7.34",
+    "Housing_Density": "3.13"
+}{
+    "State_Id": "IL",
+    "State": "Illinois",
+    "Housing_units": "5296715",
+    "Total_area": "149995.52",
+    "Water_area": "6202.04",
+    "Land_area": "143793.47",
+    "Population_Density": "89.23",
+    "Housing_Density": "36.83"
+}{
+    "State_Id": "IN",
+    "State": "Indiana",
+    "Housing_units": "2795541",
+    "Total_area": "94326.27",
+    "Water_area": "1537.00",
+    "Land_area": "92789.27",
+    "Population_Density": "69.88",
+    "Housing_Density": "30.12"
+}{
+    "State_Id": "KS",
+    "State": "Kansas",
+    "Housing_units": "1233215",
+    "Total_area": "213100.13",
+    "Water_area": "1345.86",
+    "Land_area": "211754.27",
+    "Population_Density": "13.47",
+    "Housing_Density": "5.83"
+}{
+    "State_Id": "KY",
+    "State": "Kentucky",
+    "Housing_units": "1927164",
+    "Total_area": "104655.80",
+    "Water_area": "2386.57",
+    "Land_area": "102269.23",
+    "Population_Density": "42.43",
+    "Housing_Density": "18.84"
+}{
+    "State_Id": "LA",
+    "State": "Louisiana",
+    "Housing_units": "1964981",
+    "Total_area": "135658.83",
+    "Water_area": "23761.16",
+    "Land_area": "111897.67",
+    "Population_Density": "40.50",
+    "Housing_Density": "17.57"
+}{
+    "State_Id": "MA",
+    "State": "Massachusetts",
+    "Housing_units": "2808254",
+    "Total_area": "27335.76",
+    "Water_area": "7133.69",
+    "Land_area": "20202.08",
+    "Population_Density": "324.09",
+    "Housing_Density": "139.00"
+}{
+    "State_Id": "MD",
+    "State": "Maryland",
+    "Housing_units": "2378814",
+    "Total_area": "32131.23",
+    "Water_area": "6989.58",
+    "Land_area": "25141.65",
+    "Population_Density": "229.65",
+    "Housing_Density": "94.63"
+}{
+    "State_Id": "ME",
+    "State": "Maine",
+    "Housing_units": "721830",
+    "Total_area": "91633.17",
+    "Water_area": "11750.32",
+    "Land_area": "79882.85",
+    "Population_Density": "16.64",
+    "Housing_Density": "9.03"
+}{
+    "State_Id": "MI",
+    "State": "Michigan",
+    "Housing_units": "4532233",
+    "Total_area": "250487.02",
+    "Water_area": "104051.84",
+    "Land_area": "146435.19",
+    "Population_Density": "67.49",
+    "Housing_Density": "30.97"
+}{
+    "State_Id": "MN",
+    "State": "Minnesota",
+    "Housing_units": "2347201",
+    "Total_area": "225162.93",
+    "Water_area": "18930.47",
+    "Land_area": "206232.46",
+    "Population_Density": "25.71",
+    "Housing_Density": "11.39"
+}{
+    "State_Id": "MO",
+    "State": "Missouri",
+    "Housing_units": "2712729",
+    "Total_area": "180540.41",
+    "Water_area": "2500.56",
+    "Land_area": "178039.85",
+    "Population_Density": "33.63",
+    "Housing_Density": "15.25"
+}{
+    "State_Id": "MS",
+    "State": "Mississippi",
+    "Housing_units": "1274719",
+    "Total_area": "125437.83",
+    "Water_area": "3907.00",
+    "Land_area": "121530.80",
+    "Population_Density": "24.40",
+    "Housing_Density": "10.50"
+}{
+    "State_Id": "MT",
+    "State": "Montana",
+    "Housing_units": "482825",
+    "Total_area": "380831.38",
+    "Water_area": "3869.21",
+    "Land_area": "376962.17",
+    "Population_Density": "2.63",
+    "Housing_Density": "1.27"
+}{
+    "State_Id": "NC",
+    "State": "North Carolina",
+    "Housing_units": "4327528",
+    "Total_area": "139391.09",
+    "Water_area": "13471.19",
+    "Land_area": "125919.90",
+    "Population_Density": "75.71",
+    "Housing_Density": "34.36"
+}{
+    "State_Id": "ND",
+    "State": "North Dakota",
+    "Housing_units": "317498",
+    "Total_area": "183107.94",
+    "Water_area": "4396.56",
+    "Land_area": "178711.38",
+    "Population_Density": "3.75",
+    "Housing_Density": "1.78"
+}{
+    "State_Id": "NE",
+    "State": "Nebraska",
+    "Housing_units": "796793",
+    "Total_area": "200330.05",
+    "Water_area": "1356.22",
+    "Land_area": "198973.83",
+    "Population_Density": "9.19",
+    "Housing_Density": "4.02"
+}{
+    "State_Id": "NH",
+    "State": "New Hampshire",
+    "Housing_units": "614754",
+    "Total_area": "24214.23",
+    "Water_area": "1026.96",
+    "Land_area": "23187.27",
+    "Population_Density": "56.76",
+    "Housing_Density": "26.53"
+}{
+    "State_Id": "NJ",
+    "State": "New Jersey",
+    "Housing_units": "3553562",
+    "Total_area": "22591.39",
+    "Water_area": "3544.04",
+    "Land_area": "19047.36",
+    "Population_Density": "461.58",
+    "Housing_Density": "186.56"
+}{
+    "State_Id": "NM",
+    "State": "New Mexico",
+    "Housing_units": "901388",
+    "Total_area": "314917.66",
+    "Water_area": "756.67",
+    "Land_area": "314161.00",
+    "Population_Density": "6.56",
+    "Housing_Density": "2.86"
+}{
+    "State_Id": "NV",
+    "State": "Nevada",
+    "Housing_units": "1173814",
+    "Total_area": "286379.91",
+    "Water_area": "2047.78",
+    "Land_area": "284332.16",
+    "Population_Density": "9.50",
+    "Housing_Density": "4.13"
+}{
+    "State_Id": "NY",
+    "State": "New York",
+    "Housing_units": "8108103",
+    "Total_area": "141296.85",
+    "Water_area": "19239.95",
+    "Land_area": "122056.90",
+    "Population_Density": "158.77",
+    "Housing_Density": "66.45"
+}{
+    "State_Id": "OH",
+    "State": "Ohio",
+    "Housing_units": "5127508",
+    "Total_area": "116097.80",
+    "Water_area": "10269.03",
+    "Land_area": "105828.78",
+    "Population_Density": "109.00",
+    "Housing_Density": "48.46"
+}{
+    "State_Id": "OK",
+    "State": "Oklahoma",
+    "Housing_units": "1664378",
+    "Total_area": "181037.37",
+    "Water_area": "3377.22",
+    "Land_area": "177660.16",
+    "Population_Density": "21.12",
+    "Housing_Density": "9.38"
+}{
+    "State_Id": "OR",
+    "State": "Oregon",
+    "Housing_units": "1675562",
+    "Total_area": "254799.43",
+    "Water_area": "6191.45",
+    "Land_area": "248607.99",
+    "Population_Density": "15.41",
+    "Housing_Density": "6.76"
+}{
+    "State_Id": "PA",
+    "State": "Pennsylvania",
+    "Housing_units": "5567315",
+    "Total_area": "119280.28",
+    "Water_area": "3397.13",
+    "Land_area": "115883.15",
+    "Population_Density": "109.61",
+    "Housing_Density": "48.03"
+}{
+    "State_Id": "RI",
+    "State": "Rhode Island",
+    "Housing_units": "463388",
+    "Total_area": "4001.25",
+    "Water_area": "1323.67",
+    "Land_area": "2677.56",
+    "Population_Density": "393.09",
+    "Housing_Density": "173.05"
+}{
+    "State_Id": "SC",
+    "State": "South Carolina",
+    "Housing_units": "2137683",
+    "Total_area": "82932.75",
+    "Water_area": "5075.84",
+    "Land_area": "77856.91",
+    "Population_Density": "59.42",
+    "Housing_Density": "27.45"
+}{
+    "State_Id": "SD",
+    "State": "South Dakota",
+    "Housing_units": "363438",
+    "Total_area": "199728.84",
+    "Water_area": "3379.11",
+    "Land_area": "196349.73",
+    "Population_Density": "4.13",
+    "Housing_Density": "1.85"
+}{
+    "State_Id": "TN",
+    "State": "Tennessee",
+    "Housing_units": "2812133",
+    "Total_area": "109153.19",
+    "Water_area": "2355.23",
+    "Land_area": "106797.98",
+    "Population_Density": "59.42",
+    "Housing_Density": "26.33"
+}{
+    "State_Id": "TX",
+    "State": "Texas",
+    "Housing_units": "9977436",
+    "Total_area": "695662.15",
+    "Water_area": "19074.63",
+    "Land_area": "676587.52",
+    "Population_Density": "37.18",
+    "Housing_Density": "14.75"
+}{
+    "State_Id": "UT",
+    "State": "Utah",
+    "Housing_units": "979709",
+    "Total_area": "219882.07",
+    "Water_area": "7063.58",
+    "Land_area": "212818.49",
+    "Population_Density": "12.97",
+    "Housing_Density": "4.59"
+}{
+    "State_Id": "VA",
+    "State": "Virginia",
+    "Housing_units": "3364939",
+    "Total_area": "110786.64",
+    "Water_area": "8507.70",
+    "Land_area": "102278.94",
+    "Population_Density": "78.22",
+    "Housing_Density": "32.90"
+}{
+    "State_Id": "VT",
+    "State": "Vermont",
+    "Housing_units": "322539",
+    "Total_area": "24906.28",
+    "Water_area": "1035.24",
+    "Land_area": "23871.06",
+    "Population_Density": "26.22",
+    "Housing_Density": "13.51"
+}{
+    "State_Id": "WA",
+    "State": "Washington",
+    "Housing_units": "2885677",
+    "Total_area": "184660.98",
+    "Water_area": "12541.85",
+    "Land_area": "172119.13",
+    "Population_Density": "39.07",
+    "Housing_Density": "16.76"
+}{
+    "State_Id": "WI",
+    "State": "Wisconsin",
+    "Housing_units": "2624358",
+    "Total_area": "169634.97",
+    "Water_area": "29366.78",
+    "Land_area": "140268.16",
+    "Population_Density": "40.54",
+    "Housing_Density": "18.73"
+}{
+    "State_Id": "WV",
+    "State": "West Virginia",
+    "Housing_units": "881917",
+    "Total_area": "62755.56",
+    "Water_area": "496.84",
+    "Land_area": "62258.72",
+    "Population_Density": "29.77",
+    "Housing_Density": "14.17"
+}{
+    "State_Id": "WY",
+    "State": "Wyoming",
+    "Housing_units": "261868",
+    "Total_area": "253334.72",
+    "Water_area": "1864.46",
+    "Land_area": "251470.26",
+    "Population_Density": "2.24",
+    "Housing_Density": "1.04"
+}
