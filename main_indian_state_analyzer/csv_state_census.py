@@ -2,9 +2,6 @@ from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
 
 class StateCensusCsv(PojoCsv):
 
-    MY_FILE = "../resources/IndiaStateCensusData.csv"
-    FILE_SORTED_BY_SATE_CODED = "./SortedByStateCode.json"
-
     def __init__(self, ordered_dict):
         self.State = ordered_dict.get("State")
         self.Population = ordered_dict.get("Population")
