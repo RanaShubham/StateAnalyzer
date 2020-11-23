@@ -1,6 +1,12 @@
+import json
+
+from Indian_state_analyzer.my_csv_analyzer.csv_analyzer import CsvAnalyzer
 from Indian_state_analyzer.my_csv_analyzer.csv_pojo import PojoCsv
 
 class USCensusCsv(PojoCsv):
+
+    CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
+    JSON_FILE_BY_STATE = "./UsCensusData_sortedByState.json"
 
     def __init__(self, ordered_dict):
         self.State_Id = ordered_dict.get("State Id")
@@ -38,3 +44,45 @@ class USCensusCsv(PojoCsv):
         '''
         return  self.State_Id and self.State and self.Housing_units and\
                 self.Total_area and  self.Water_area and self.Land_area and self.Population_Density and self.Housing_Density
+
+
+    @staticmethod
+    def get_object_list_from_csv():
+        '''
+            To get object data in list form from the csv file using CsvAnalyzer module.
+            :return: List of objects of this type.
+            :rtype: list
+        '''
+        return CsvAnalyzer.read_csv_data(USCensusCsv.CSV_FILE_UNSORTED, USCensusCsv)
+
+    @staticmethod
+    def get_list_sorted_by_state():
+        '''
+            Sorts the list of  objects of this type according to state in ascending order.
+            :return: Sorted object list
+            :rtype: list
+        '''
+        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list.sort(key=lambda state: state.State)
+        save_sorted_to_json(my_list)
+
+
+def save_sorted_to_json(sorted_list):
+    '''
+        Writes the list of objects of this type in json file.
+        :param my_list: List of objects of this type.
+        :type my_list:  list
+        :return: None
+        :rtype: None
+    '''
+    with open(USCensusCsv.JSON_FILE_BY_STATE, "w") as file:
+        for object in sorted_list:
+            file.write(json.dumps(object.__dict__, indent=4))
+
+
+def driver_function():
+    USCensusCsv.get_list_sorted_by_state()
+
+
+if __name__ == "__main__":
+    driver_function()
