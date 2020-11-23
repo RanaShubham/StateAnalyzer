@@ -8,7 +8,7 @@ class USCensusCsv(PojoCsv):
     CSV_FILE_UNSORTED = "../resources/USCensusData.csv"
     JSON_FILE_BY_STATE = "./UsCensusData_sortedByState.json"
     JSON_FILE_BY_STATE_CODE = "./UsCensusData_sortedByStateCode.json"
-
+    JSON_FILE_BY_MOST_POPULATION = "./UsCensusData_sortedByMostPopulation.json"
 
     def __init__(self, ordered_dict):
         self.State_Id = ordered_dict.get("State Id")
@@ -79,6 +79,17 @@ class USCensusCsv(PojoCsv):
         my_list.sort(key=lambda state: state.State_Id)
         save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_STATE_CODE)
 
+    @staticmethod
+    def get_list_sorted_by_state_housing_denisty():
+        '''
+            Sorts the list of  objects of this type according to state population in ascending order and saves to json file.
+            :return: Sorted object list
+            :rtype: list
+        '''
+        my_list = USCensusCsv.get_object_list_from_csv()
+        my_list.sort(key=lambda state: float(state.Housing_Density), reverse=True)
+        save_sorted_to_json(my_list, USCensusCsv.JSON_FILE_BY_MOST_POPULATION)
+
 
 def save_sorted_to_json(sorted_list, sorted_json):
     '''
@@ -96,6 +107,7 @@ def save_sorted_to_json(sorted_list, sorted_json):
 def driver_function():
     USCensusCsv.get_list_sorted_by_state()
     USCensusCsv.get_list_sorted_by_state_code()
+    USCensusCsv.get_list_sorted_by_state_housing_denisty()
 
 
 if __name__ == "__main__":
