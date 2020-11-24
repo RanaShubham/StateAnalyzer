@@ -1,520 +1,810 @@
-2020-11-23 12:45:31,715 | DEBUG | Alabama
-2020-11-23 12:45:31,715 | DEBUG | Alaska
-2020-11-23 12:45:31,715 | DEBUG | Arizona
-2020-11-23 12:45:31,715 | DEBUG | Arkansas
-2020-11-23 12:45:31,715 | DEBUG | California
-2020-11-23 12:45:31,715 | DEBUG | Colorado
-2020-11-23 12:45:31,715 | DEBUG | Connecticut
-2020-11-23 12:45:31,716 | DEBUG | Delaware
-2020-11-23 12:45:31,716 | DEBUG | District of Columbia
-2020-11-23 12:45:31,716 | DEBUG | Florida
-2020-11-23 12:45:31,716 | DEBUG | Georgia
-2020-11-23 12:45:31,716 | DEBUG | Hawaii
-2020-11-23 12:45:31,716 | DEBUG | Idaho
-2020-11-23 12:45:31,716 | DEBUG | Illinois
-2020-11-23 12:45:31,717 | DEBUG | Indiana
-2020-11-23 12:45:31,717 | DEBUG | Iowa
-2020-11-23 12:45:31,717 | DEBUG | Kansas
-2020-11-23 12:45:31,717 | DEBUG | Kentucky
-2020-11-23 12:45:31,717 | DEBUG | Louisiana
-2020-11-23 12:45:31,717 | DEBUG | Maine
-2020-11-23 12:45:31,717 | DEBUG | Maryland
-2020-11-23 12:45:31,717 | DEBUG | Massachusetts
-2020-11-23 12:45:31,717 | DEBUG | Michigan
-2020-11-23 12:45:31,717 | DEBUG | Minnesota
-2020-11-23 12:45:31,717 | DEBUG | Mississippi
-2020-11-23 12:45:31,717 | DEBUG | Missouri
-2020-11-23 12:45:31,717 | DEBUG | Montana
-2020-11-23 12:45:31,717 | DEBUG | Nebraska
-2020-11-23 12:45:31,717 | DEBUG | Nevada
-2020-11-23 12:45:31,717 | DEBUG | New Hampshire
-2020-11-23 12:45:31,717 | DEBUG | New Jersey
-2020-11-23 12:45:31,717 | DEBUG | New Mexico
-2020-11-23 12:45:31,718 | DEBUG | New York
-2020-11-23 12:45:31,718 | DEBUG | North Carolina
-2020-11-23 12:45:31,718 | DEBUG | North Dakota
-2020-11-23 12:45:31,718 | DEBUG | Ohio
-2020-11-23 12:45:31,718 | DEBUG | Oklahoma
-2020-11-23 12:45:31,718 | DEBUG | Oregon
-2020-11-23 12:45:31,718 | DEBUG | Pennsylvania
-2020-11-23 12:45:31,718 | DEBUG | Rhode Island
-2020-11-23 12:45:31,718 | DEBUG | South Carolina
-2020-11-23 12:45:31,718 | DEBUG | South Dakota
-2020-11-23 12:45:31,718 | DEBUG | Tennessee
-2020-11-23 12:45:31,718 | DEBUG | Texas
-2020-11-23 12:45:31,718 | DEBUG | Utah
-2020-11-23 12:45:31,718 | DEBUG | Vermont
-2020-11-23 12:45:31,718 | DEBUG | Virginia
-2020-11-23 12:45:31,718 | DEBUG | Washington
-2020-11-23 12:45:31,718 | DEBUG | West Virginia
-2020-11-23 12:45:31,718 | DEBUG | Wisconsin
-2020-11-23 12:45:31,718 | DEBUG | Wyoming
-2020-11-23 12:45:31,718 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 12:45:31,720 | DEBUG | AK
-2020-11-23 12:45:31,720 | DEBUG | AL
-2020-11-23 12:45:31,720 | DEBUG | AR
-2020-11-23 12:45:31,720 | DEBUG | AZ
-2020-11-23 12:45:31,720 | DEBUG | CA
-2020-11-23 12:45:31,720 | DEBUG | CO
-2020-11-23 12:45:31,720 | DEBUG | CT
-2020-11-23 12:45:31,720 | DEBUG | DC
-2020-11-23 12:45:31,720 | DEBUG | DE
-2020-11-23 12:45:31,720 | DEBUG | FL
-2020-11-23 12:45:31,720 | DEBUG | GA
-2020-11-23 12:45:31,720 | DEBUG | HI
-2020-11-23 12:45:31,720 | DEBUG | IA
-2020-11-23 12:45:31,720 | DEBUG | ID
-2020-11-23 12:45:31,720 | DEBUG | IL
-2020-11-23 12:45:31,720 | DEBUG | IN
-2020-11-23 12:45:31,720 | DEBUG | KS
-2020-11-23 12:45:31,720 | DEBUG | KY
-2020-11-23 12:45:31,720 | DEBUG | LA
-2020-11-23 12:45:31,720 | DEBUG | MA
-2020-11-23 12:45:31,720 | DEBUG | MD
-2020-11-23 12:45:31,720 | DEBUG | ME
-2020-11-23 12:45:31,720 | DEBUG | MI
-2020-11-23 12:45:31,721 | DEBUG | MN
-2020-11-23 12:45:31,721 | DEBUG | MO
-2020-11-23 12:45:31,721 | DEBUG | MS
-2020-11-23 12:45:31,721 | DEBUG | MT
-2020-11-23 12:45:31,721 | DEBUG | NC
-2020-11-23 12:45:31,721 | DEBUG | ND
-2020-11-23 12:45:31,721 | DEBUG | NE
-2020-11-23 12:45:31,721 | DEBUG | NH
-2020-11-23 12:45:31,721 | DEBUG | NJ
-2020-11-23 12:45:31,721 | DEBUG | NM
-2020-11-23 12:45:31,721 | DEBUG | NV
-2020-11-23 12:45:31,721 | DEBUG | NY
-2020-11-23 12:45:31,721 | DEBUG | OH
-2020-11-23 12:45:31,721 | DEBUG | OK
-2020-11-23 12:45:31,721 | DEBUG | OR
-2020-11-23 12:45:31,721 | DEBUG | PA
-2020-11-23 12:45:31,721 | DEBUG | RI
-2020-11-23 12:45:31,721 | DEBUG | SC
-2020-11-23 12:45:31,721 | DEBUG | SD
-2020-11-23 12:45:31,721 | DEBUG | TN
-2020-11-23 12:45:31,721 | DEBUG | TX
-2020-11-23 12:45:31,721 | DEBUG | UT
-2020-11-23 12:45:31,721 | DEBUG | VA
-2020-11-23 12:45:31,721 | DEBUG | VT
-2020-11-23 12:45:31,722 | DEBUG | WA
-2020-11-23 12:45:31,722 | DEBUG | WI
-2020-11-23 12:45:31,722 | DEBUG | WV
-2020-11-23 12:45:31,722 | DEBUG | WY
-2020-11-23 12:45:31,722 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 12:45:31,723 | DEBUG | 1876.61
-2020-11-23 12:45:31,723 | DEBUG | 186.56
-2020-11-23 12:45:31,723 | DEBUG | 173.05
-2020-11-23 12:45:31,723 | DEBUG | 139.00
-2020-11-23 12:45:31,723 | DEBUG | 118.65
-2020-11-23 12:45:31,723 | DEBUG | 94.63
-2020-11-23 12:45:31,723 | DEBUG | 80.43
-2020-11-23 12:45:31,723 | DEBUG | 66.45
-2020-11-23 12:45:31,723 | DEBUG | 64.71
-2020-11-23 12:45:31,723 | DEBUG | 48.46
-2020-11-23 12:45:31,724 | DEBUG | 48.03
-2020-11-23 12:45:31,724 | DEBUG | 36.83
-2020-11-23 12:45:31,724 | DEBUG | 34.36
-2020-11-23 12:45:31,724 | DEBUG | 33.90
-2020-11-23 12:45:31,724 | DEBUG | 32.90
-2020-11-23 12:45:31,724 | DEBUG | 31.24
-2020-11-23 12:45:31,724 | DEBUG | 30.97
-2020-11-23 12:45:31,724 | DEBUG | 30.12
-2020-11-23 12:45:31,724 | DEBUG | 27.45
-2020-11-23 12:45:31,724 | DEBUG | 27.45
-2020-11-23 12:45:31,724 | DEBUG | 26.53
-2020-11-23 12:45:31,724 | DEBUG | 26.33
-2020-11-23 12:45:31,724 | DEBUG | 18.84
-2020-11-23 12:45:31,724 | DEBUG | 18.73
-2020-11-23 12:45:31,724 | DEBUG | 17.57
-2020-11-23 12:45:31,724 | DEBUG | 16.76
-2020-11-23 12:45:31,724 | DEBUG | 16.56
-2020-11-23 12:45:31,724 | DEBUG | 15.25
-2020-11-23 12:45:31,724 | DEBUG | 14.75
-2020-11-23 12:45:31,724 | DEBUG | 14.17
-2020-11-23 12:45:31,724 | DEBUG | 13.51
-2020-11-23 12:45:31,724 | DEBUG | 11.39
-2020-11-23 12:45:31,724 | DEBUG | 10.50
-2020-11-23 12:45:31,724 | DEBUG | 9.77
-2020-11-23 12:45:31,724 | DEBUG | 9.65
-2020-11-23 12:45:31,724 | DEBUG | 9.38
-2020-11-23 12:45:31,724 | DEBUG | 9.23
-2020-11-23 12:45:31,724 | DEBUG | 9.03
-2020-11-23 12:45:31,725 | DEBUG | 8.26
-2020-11-23 12:45:31,725 | DEBUG | 6.76
-2020-11-23 12:45:31,725 | DEBUG | 5.83
-2020-11-23 12:45:31,725 | DEBUG | 4.59
-2020-11-23 12:45:31,725 | DEBUG | 4.13
-2020-11-23 12:45:31,725 | DEBUG | 4.02
-2020-11-23 12:45:31,725 | DEBUG | 3.13
-2020-11-23 12:45:31,725 | DEBUG | 2.86
-2020-11-23 12:45:31,725 | DEBUG | 1.85
-2020-11-23 12:45:31,725 | DEBUG | 1.78
-2020-11-23 12:45:31,725 | DEBUG | 1.27
-2020-11-23 12:45:31,725 | DEBUG | 1.04
-2020-11-23 12:45:31,725 | DEBUG | 0.19
-2020-11-23 12:45:31,725 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 12:45:31,727 | DEBUG | 3805.61
-2020-11-23 12:45:31,727 | DEBUG | 461.58
-2020-11-23 12:45:31,727 | DEBUG | 393.09
-2020-11-23 12:45:31,727 | DEBUG | 324.09
-2020-11-23 12:45:31,727 | DEBUG | 284.98
-2020-11-23 12:45:31,727 | DEBUG | 229.65
-2020-11-23 12:45:31,727 | DEBUG | 177.92
-2020-11-23 12:45:31,727 | DEBUG | 158.77
-2020-11-23 12:45:31,727 | DEBUG | 135.37
-2020-11-23 12:45:31,727 | DEBUG | 109.61
-2020-11-23 12:45:31,727 | DEBUG | 109.00
-2020-11-23 12:45:31,727 | DEBUG | 92.32
-2020-11-23 12:45:31,727 | DEBUG | 89.23
-2020-11-23 12:45:31,727 | DEBUG | 81.78
-2020-11-23 12:45:31,727 | DEBUG | 78.22
-2020-11-23 12:45:31,727 | DEBUG | 75.71
-2020-11-23 12:45:31,727 | DEBUG | 69.88
-2020-11-23 12:45:31,727 | DEBUG | 67.49
-2020-11-23 12:45:31,727 | DEBUG | 65.02
-2020-11-23 12:45:31,727 | DEBUG | 59.42
-2020-11-23 12:45:31,727 | DEBUG | 59.42
-2020-11-23 12:45:31,728 | DEBUG | 56.76
-2020-11-23 12:45:31,728 | DEBUG | 42.43
-2020-11-23 12:45:31,728 | DEBUG | 40.54
-2020-11-23 12:45:31,728 | DEBUG | 40.50
-2020-11-23 12:45:31,728 | DEBUG | 39.07
-2020-11-23 12:45:31,728 | DEBUG | 37.18
-2020-11-23 12:45:31,728 | DEBUG | 36.45
-2020-11-23 12:45:31,728 | DEBUG | 33.63
-2020-11-23 12:45:31,728 | DEBUG | 29.77
-2020-11-23 12:45:31,728 | DEBUG | 26.22
-2020-11-23 12:45:31,728 | DEBUG | 25.71
-2020-11-23 12:45:31,728 | DEBUG | 24.40
-2020-11-23 12:45:31,728 | DEBUG | 21.74
-2020-11-23 12:45:31,728 | DEBUG | 21.62
-2020-11-23 12:45:31,728 | DEBUG | 21.12
-2020-11-23 12:45:31,728 | DEBUG | 21.04
-2020-11-23 12:45:31,728 | DEBUG | 18.73
-2020-11-23 12:45:31,728 | DEBUG | 16.64
-2020-11-23 12:45:31,728 | DEBUG | 15.41
-2020-11-23 12:45:31,728 | DEBUG | 13.47
-2020-11-23 12:45:31,728 | DEBUG | 12.97
-2020-11-23 12:45:31,728 | DEBUG | 9.50
-2020-11-23 12:45:31,728 | DEBUG | 9.19
-2020-11-23 12:45:31,728 | DEBUG | 7.34
-2020-11-23 12:45:31,728 | DEBUG | 6.56
-2020-11-23 12:45:31,728 | DEBUG | 4.13
-2020-11-23 12:45:31,728 | DEBUG | 3.75
-2020-11-23 12:45:31,729 | DEBUG | 2.63
-2020-11-23 12:45:31,729 | DEBUG | 2.24
-2020-11-23 12:45:31,729 | DEBUG | 0.46
-2020-11-23 12:45:31,729 | DEBUG | ----------------------------------------------------------------------------------------------------------------------------
-2020-11-23 12:45:31,730 | DEBUG | 1477954.35
-2020-11-23 12:45:31,730 | DEBUG | 676587.52
-2020-11-23 12:45:31,730 | DEBUG | 403466.62
-2020-11-23 12:45:31,730 | DEBUG | 376962.17
-2020-11-23 12:45:31,730 | DEBUG | 314161.00
-2020-11-23 12:45:31,730 | DEBUG | 294207.53
-2020-11-23 12:45:31,730 | DEBUG | 284332.16
-2020-11-23 12:45:31,730 | DEBUG | 268431.46
-2020-11-23 12:45:31,730 | DEBUG | 251470.26
-2020-11-23 12:45:31,730 | DEBUG | 248607.99
-2020-11-23 12:45:31,730 | DEBUG | 214044.85
-2020-11-23 12:45:31,731 | DEBUG | 212818.49
-2020-11-23 12:45:31,731 | DEBUG | 211754.27
-2020-11-23 12:45:31,731 | DEBUG | 206232.46
-2020-11-23 12:45:31,731 | DEBUG | 198973.83
-2020-11-23 12:45:31,731 | DEBUG | 196349.73
-2020-11-23 12:45:31,731 | DEBUG | 178711.38
-2020-11-23 12:45:31,731 | DEBUG | 178039.85
-2020-11-23 12:45:31,731 | DEBUG | 177660.16
-2020-11-23 12:45:31,731 | DEBUG | 172119.13
-2020-11-23 12:45:31,731 | DEBUG | 148959.36
-2020-11-23 12:45:31,731 | DEBUG | 146435.19
-2020-11-23 12:45:31,731 | DEBUG | 144669.41
-2020-11-23 12:45:31,731 | DEBUG | 143793.47
-2020-11-23 12:45:31,731 | DEBUG | 140268.16
-2020-11-23 12:45:31,731 | DEBUG | 138887.59
-2020-11-23 12:45:31,731 | DEBUG | 134771.37
-2020-11-23 12:45:31,731 | DEBUG | 131170.90
-2020-11-23 12:45:31,731 | DEBUG | 125919.90
-2020-11-23 12:45:31,731 | DEBUG | 122056.90
-2020-11-23 12:45:31,731 | DEBUG | 121530.80
-2020-11-23 12:45:31,731 | DEBUG | 115883.15
-2020-11-23 12:45:31,731 | DEBUG | 111897.67
-2020-11-23 12:45:31,731 | DEBUG | 106797.98
-2020-11-23 12:45:31,731 | DEBUG | 105828.78
-2020-11-23 12:45:31,731 | DEBUG | 102278.94
-2020-11-23 12:45:31,731 | DEBUG | 102269.23
-2020-11-23 12:45:31,731 | DEBUG | 92789.27
-2020-11-23 12:45:31,731 | DEBUG | 79882.85
-2020-11-23 12:45:31,731 | DEBUG | 77856.91
-2020-11-23 12:45:31,732 | DEBUG | 62258.72
-2020-11-23 12:45:31,732 | DEBUG | 25141.65
-2020-11-23 12:45:31,732 | DEBUG | 23871.06
-2020-11-23 12:45:31,732 | DEBUG | 23187.27
-2020-11-23 12:45:31,732 | DEBUG | 20202.08
-2020-11-23 12:45:31,732 | DEBUG | 19047.36
-2020-11-23 12:45:31,732 | DEBUG | 16634.55
-2020-11-23 12:45:31,732 | DEBUG | 12541.66
-2020-11-23 12:45:31,732 | DEBUG | 5046.70
-2020-11-23 12:45:31,732 | DEBUG | 2677.56
-2020-11-23 12:45:31,732 | DEBUG | 158.12
-2020-11-23 12:45:31,732 | DEBUG | -------------------------------------------------------------------------------------------------------------
-2020-11-23 19:30:26,182 | DEBUG | Alabama
-2020-11-23 19:30:26,222 | DEBUG | Alaska
-2020-11-23 19:30:26,222 | DEBUG | Arizona
-2020-11-23 19:30:26,222 | DEBUG | Arkansas
-2020-11-23 19:30:26,222 | DEBUG | California
-2020-11-23 19:30:26,222 | DEBUG | Colorado
-2020-11-23 19:30:26,222 | DEBUG | Connecticut
-2020-11-23 19:30:26,222 | DEBUG | Delaware
-2020-11-23 19:30:26,222 | DEBUG | District of Columbia
-2020-11-23 19:30:26,222 | DEBUG | Florida
-2020-11-23 19:30:26,222 | DEBUG | Georgia
-2020-11-23 19:30:26,222 | DEBUG | Hawaii
-2020-11-23 19:30:26,222 | DEBUG | Idaho
-2020-11-23 19:30:26,222 | DEBUG | Illinois
-2020-11-23 19:30:26,222 | DEBUG | Indiana
-2020-11-23 19:30:26,222 | DEBUG | Iowa
-2020-11-23 19:30:26,223 | DEBUG | Kansas
-2020-11-23 19:30:26,223 | DEBUG | Kentucky
-2020-11-23 19:30:26,223 | DEBUG | Louisiana
-2020-11-23 19:30:26,223 | DEBUG | Maine
-2020-11-23 19:30:26,223 | DEBUG | Maryland
-2020-11-23 19:30:26,223 | DEBUG | Massachusetts
-2020-11-23 19:30:26,223 | DEBUG | Michigan
-2020-11-23 19:30:26,223 | DEBUG | Minnesota
-2020-11-23 19:30:26,223 | DEBUG | Mississippi
-2020-11-23 19:30:26,223 | DEBUG | Missouri
-2020-11-23 19:30:26,223 | DEBUG | Montana
-2020-11-23 19:30:26,223 | DEBUG | Nebraska
-2020-11-23 19:30:26,223 | DEBUG | Nevada
-2020-11-23 19:30:26,223 | DEBUG | New Hampshire
-2020-11-23 19:30:26,223 | DEBUG | New Jersey
-2020-11-23 19:30:26,223 | DEBUG | New Mexico
-2020-11-23 19:30:26,223 | DEBUG | New York
-2020-11-23 19:30:26,223 | DEBUG | North Carolina
-2020-11-23 19:30:26,223 | DEBUG | North Dakota
-2020-11-23 19:30:26,223 | DEBUG | Ohio
-2020-11-23 19:30:26,223 | DEBUG | Oklahoma
-2020-11-23 19:30:26,223 | DEBUG | Oregon
-2020-11-23 19:30:26,223 | DEBUG | Pennsylvania
-2020-11-23 19:30:26,223 | DEBUG | Rhode Island
-2020-11-23 19:30:26,224 | DEBUG | South Carolina
-2020-11-23 19:30:26,224 | DEBUG | South Dakota
-2020-11-23 19:30:26,224 | DEBUG | Tennessee
-2020-11-23 19:30:26,224 | DEBUG | Texas
-2020-11-23 19:30:26,224 | DEBUG | Utah
-2020-11-23 19:30:26,224 | DEBUG | Vermont
-2020-11-23 19:30:26,224 | DEBUG | Virginia
-2020-11-23 19:30:26,224 | DEBUG | Washington
-2020-11-23 19:30:26,224 | DEBUG | West Virginia
-2020-11-23 19:30:26,224 | DEBUG | Wisconsin
-2020-11-23 19:30:26,224 | DEBUG | Wyoming
-2020-11-23 19:30:26,224 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 19:30:26,226 | DEBUG | AK
-2020-11-23 19:30:26,226 | DEBUG | AL
-2020-11-23 19:30:26,226 | DEBUG | AR
-2020-11-23 19:30:26,226 | DEBUG | AZ
-2020-11-23 19:30:26,226 | DEBUG | CA
-2020-11-23 19:30:26,226 | DEBUG | CO
-2020-11-23 19:30:26,226 | DEBUG | CT
-2020-11-23 19:30:26,226 | DEBUG | DC
-2020-11-23 19:30:26,226 | DEBUG | DE
-2020-11-23 19:30:26,226 | DEBUG | FL
-2020-11-23 19:30:26,226 | DEBUG | GA
-2020-11-23 19:30:26,226 | DEBUG | HI
-2020-11-23 19:30:26,226 | DEBUG | IA
-2020-11-23 19:30:26,226 | DEBUG | ID
-2020-11-23 19:30:26,226 | DEBUG | IL
-2020-11-23 19:30:26,226 | DEBUG | IN
-2020-11-23 19:30:26,226 | DEBUG | KS
-2020-11-23 19:30:26,226 | DEBUG | KY
-2020-11-23 19:30:26,226 | DEBUG | LA
-2020-11-23 19:30:26,226 | DEBUG | MA
-2020-11-23 19:30:26,226 | DEBUG | MD
-2020-11-23 19:30:26,226 | DEBUG | ME
-2020-11-23 19:30:26,226 | DEBUG | MI
-2020-11-23 19:30:26,226 | DEBUG | MN
-2020-11-23 19:30:26,227 | DEBUG | MO
-2020-11-23 19:30:26,227 | DEBUG | MS
-2020-11-23 19:30:26,227 | DEBUG | MT
-2020-11-23 19:30:26,227 | DEBUG | NC
-2020-11-23 19:30:26,227 | DEBUG | ND
-2020-11-23 19:30:26,227 | DEBUG | NE
-2020-11-23 19:30:26,227 | DEBUG | NH
-2020-11-23 19:30:26,227 | DEBUG | NJ
-2020-11-23 19:30:26,227 | DEBUG | NM
-2020-11-23 19:30:26,227 | DEBUG | NV
-2020-11-23 19:30:26,227 | DEBUG | NY
-2020-11-23 19:30:26,227 | DEBUG | OH
-2020-11-23 19:30:26,227 | DEBUG | OK
-2020-11-23 19:30:26,227 | DEBUG | OR
-2020-11-23 19:30:26,227 | DEBUG | PA
-2020-11-23 19:30:26,227 | DEBUG | RI
-2020-11-23 19:30:26,227 | DEBUG | SC
-2020-11-23 19:30:26,227 | DEBUG | SD
-2020-11-23 19:30:26,227 | DEBUG | TN
-2020-11-23 19:30:26,227 | DEBUG | TX
-2020-11-23 19:30:26,227 | DEBUG | UT
-2020-11-23 19:30:26,227 | DEBUG | VA
-2020-11-23 19:30:26,227 | DEBUG | VT
-2020-11-23 19:30:26,227 | DEBUG | WA
-2020-11-23 19:30:26,227 | DEBUG | WI
-2020-11-23 19:30:26,228 | DEBUG | WV
-2020-11-23 19:30:26,228 | DEBUG | WY
-2020-11-23 19:30:26,228 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 19:30:26,279 | DEBUG | 1876.61
-2020-11-23 19:30:26,279 | DEBUG | 186.56
-2020-11-23 19:30:26,279 | DEBUG | 173.05
-2020-11-23 19:30:26,279 | DEBUG | 139.00
-2020-11-23 19:30:26,279 | DEBUG | 118.65
-2020-11-23 19:30:26,279 | DEBUG | 94.63
-2020-11-23 19:30:26,279 | DEBUG | 80.43
-2020-11-23 19:30:26,279 | DEBUG | 66.45
-2020-11-23 19:30:26,279 | DEBUG | 64.71
-2020-11-23 19:30:26,279 | DEBUG | 48.46
-2020-11-23 19:30:26,279 | DEBUG | 48.03
-2020-11-23 19:30:26,279 | DEBUG | 36.83
-2020-11-23 19:30:26,279 | DEBUG | 34.36
-2020-11-23 19:30:26,280 | DEBUG | 33.90
-2020-11-23 19:30:26,280 | DEBUG | 32.90
-2020-11-23 19:30:26,280 | DEBUG | 31.24
-2020-11-23 19:30:26,280 | DEBUG | 30.97
-2020-11-23 19:30:26,280 | DEBUG | 30.12
-2020-11-23 19:30:26,280 | DEBUG | 27.45
-2020-11-23 19:30:26,280 | DEBUG | 27.45
-2020-11-23 19:30:26,280 | DEBUG | 26.53
-2020-11-23 19:30:26,280 | DEBUG | 26.33
-2020-11-23 19:30:26,280 | DEBUG | 18.84
-2020-11-23 19:30:26,280 | DEBUG | 18.73
-2020-11-23 19:30:26,280 | DEBUG | 17.57
-2020-11-23 19:30:26,280 | DEBUG | 16.76
-2020-11-23 19:30:26,280 | DEBUG | 16.56
-2020-11-23 19:30:26,280 | DEBUG | 15.25
-2020-11-23 19:30:26,280 | DEBUG | 14.75
-2020-11-23 19:30:26,280 | DEBUG | 14.17
-2020-11-23 19:30:26,280 | DEBUG | 13.51
-2020-11-23 19:30:26,280 | DEBUG | 11.39
-2020-11-23 19:30:26,280 | DEBUG | 10.50
-2020-11-23 19:30:26,280 | DEBUG | 9.77
-2020-11-23 19:30:26,280 | DEBUG | 9.65
-2020-11-23 19:30:26,280 | DEBUG | 9.38
-2020-11-23 19:30:26,281 | DEBUG | 9.23
-2020-11-23 19:30:26,281 | DEBUG | 9.03
-2020-11-23 19:30:26,281 | DEBUG | 8.26
-2020-11-23 19:30:26,281 | DEBUG | 6.76
-2020-11-23 19:30:26,281 | DEBUG | 5.83
-2020-11-23 19:30:26,281 | DEBUG | 4.59
-2020-11-23 19:30:26,281 | DEBUG | 4.13
-2020-11-23 19:30:26,281 | DEBUG | 4.02
-2020-11-23 19:30:26,281 | DEBUG | 3.13
-2020-11-23 19:30:26,281 | DEBUG | 2.86
-2020-11-23 19:30:26,281 | DEBUG | 1.85
-2020-11-23 19:30:26,281 | DEBUG | 1.78
-2020-11-23 19:30:26,281 | DEBUG | 1.27
-2020-11-23 19:30:26,281 | DEBUG | 1.04
-2020-11-23 19:30:26,281 | DEBUG | 0.19
-2020-11-23 19:30:26,281 | DEBUG | ---------------------------------------------------------------------------------------------------------------------
-2020-11-23 19:30:26,348 | DEBUG | 3805.61
-2020-11-23 19:30:26,348 | DEBUG | 461.58
-2020-11-23 19:30:26,348 | DEBUG | 393.09
-2020-11-23 19:30:26,348 | DEBUG | 324.09
-2020-11-23 19:30:26,348 | DEBUG | 284.98
-2020-11-23 19:30:26,349 | DEBUG | 229.65
-2020-11-23 19:30:26,349 | DEBUG | 177.92
-2020-11-23 19:30:26,349 | DEBUG | 158.77
-2020-11-23 19:30:26,349 | DEBUG | 135.37
-2020-11-23 19:30:26,349 | DEBUG | 109.61
-2020-11-23 19:30:26,349 | DEBUG | 109.00
-2020-11-23 19:30:26,349 | DEBUG | 92.32
-2020-11-23 19:30:26,349 | DEBUG | 89.23
-2020-11-23 19:30:26,349 | DEBUG | 81.78
-2020-11-23 19:30:26,349 | DEBUG | 78.22
-2020-11-23 19:30:26,349 | DEBUG | 75.71
-2020-11-23 19:30:26,349 | DEBUG | 69.88
-2020-11-23 19:30:26,349 | DEBUG | 67.49
-2020-11-23 19:30:26,349 | DEBUG | 65.02
-2020-11-23 19:30:26,349 | DEBUG | 59.42
-2020-11-23 19:30:26,349 | DEBUG | 59.42
-2020-11-23 19:30:26,349 | DEBUG | 56.76
-2020-11-23 19:30:26,349 | DEBUG | 42.43
-2020-11-23 19:30:26,349 | DEBUG | 40.54
-2020-11-23 19:30:26,349 | DEBUG | 40.50
-2020-11-23 19:30:26,349 | DEBUG | 39.07
-2020-11-23 19:30:26,349 | DEBUG | 37.18
-2020-11-23 19:30:26,349 | DEBUG | 36.45
-2020-11-23 19:30:26,349 | DEBUG | 33.63
-2020-11-23 19:30:26,349 | DEBUG | 29.77
-2020-11-23 19:30:26,349 | DEBUG | 26.22
-2020-11-23 19:30:26,350 | DEBUG | 25.71
-2020-11-23 19:30:26,350 | DEBUG | 24.40
-2020-11-23 19:30:26,350 | DEBUG | 21.74
-2020-11-23 19:30:26,350 | DEBUG | 21.62
-2020-11-23 19:30:26,350 | DEBUG | 21.12
-2020-11-23 19:30:26,350 | DEBUG | 21.04
-2020-11-23 19:30:26,350 | DEBUG | 18.73
-2020-11-23 19:30:26,350 | DEBUG | 16.64
-2020-11-23 19:30:26,350 | DEBUG | 15.41
-2020-11-23 19:30:26,350 | DEBUG | 13.47
-2020-11-23 19:30:26,350 | DEBUG | 12.97
-2020-11-23 19:30:26,350 | DEBUG | 9.50
-2020-11-23 19:30:26,350 | DEBUG | 9.19
-2020-11-23 19:30:26,350 | DEBUG | 7.34
-2020-11-23 19:30:26,350 | DEBUG | 6.56
-2020-11-23 19:30:26,350 | DEBUG | 4.13
-2020-11-23 19:30:26,350 | DEBUG | 3.75
-2020-11-23 19:30:26,350 | DEBUG | 2.63
-2020-11-23 19:30:26,350 | DEBUG | 2.24
-2020-11-23 19:30:26,350 | DEBUG | 0.46
-2020-11-23 19:30:26,350 | DEBUG | ----------------------------------------------------------------------------------------------------------------------------
-2020-11-23 19:30:26,378 | DEBUG | 1477954.35
-2020-11-23 19:30:26,378 | DEBUG | 676587.52
-2020-11-23 19:30:26,378 | DEBUG | 403466.62
-2020-11-23 19:30:26,378 | DEBUG | 376962.17
-2020-11-23 19:30:26,378 | DEBUG | 314161.00
-2020-11-23 19:30:26,378 | DEBUG | 294207.53
-2020-11-23 19:30:26,378 | DEBUG | 284332.16
-2020-11-23 19:30:26,378 | DEBUG | 268431.46
-2020-11-23 19:30:26,379 | DEBUG | 251470.26
-2020-11-23 19:30:26,379 | DEBUG | 248607.99
-2020-11-23 19:30:26,379 | DEBUG | 214044.85
-2020-11-23 19:30:26,379 | DEBUG | 212818.49
-2020-11-23 19:30:26,379 | DEBUG | 211754.27
-2020-11-23 19:30:26,379 | DEBUG | 206232.46
-2020-11-23 19:30:26,379 | DEBUG | 198973.83
-2020-11-23 19:30:26,379 | DEBUG | 196349.73
-2020-11-23 19:30:26,379 | DEBUG | 178711.38
-2020-11-23 19:30:26,379 | DEBUG | 178039.85
-2020-11-23 19:30:26,379 | DEBUG | 177660.16
-2020-11-23 19:30:26,379 | DEBUG | 172119.13
-2020-11-23 19:30:26,379 | DEBUG | 148959.36
-2020-11-23 19:30:26,379 | DEBUG | 146435.19
-2020-11-23 19:30:26,379 | DEBUG | 144669.41
-2020-11-23 19:30:26,379 | DEBUG | 143793.47
-2020-11-23 19:30:26,379 | DEBUG | 140268.16
-2020-11-23 19:30:26,379 | DEBUG | 138887.59
-2020-11-23 19:30:26,379 | DEBUG | 134771.37
-2020-11-23 19:30:26,379 | DEBUG | 131170.90
-2020-11-23 19:30:26,379 | DEBUG | 125919.90
-2020-11-23 19:30:26,379 | DEBUG | 122056.90
-2020-11-23 19:30:26,379 | DEBUG | 121530.80
-2020-11-23 19:30:26,379 | DEBUG | 115883.15
-2020-11-23 19:30:26,379 | DEBUG | 111897.67
-2020-11-23 19:30:26,379 | DEBUG | 106797.98
-2020-11-23 19:30:26,380 | DEBUG | 105828.78
-2020-11-23 19:30:26,380 | DEBUG | 102278.94
-2020-11-23 19:30:26,380 | DEBUG | 102269.23
-2020-11-23 19:30:26,380 | DEBUG | 92789.27
-2020-11-23 19:30:26,380 | DEBUG | 79882.85
-2020-11-23 19:30:26,380 | DEBUG | 77856.91
-2020-11-23 19:30:26,380 | DEBUG | 62258.72
-2020-11-23 19:30:26,380 | DEBUG | 25141.65
-2020-11-23 19:30:26,380 | DEBUG | 23871.06
-2020-11-23 19:30:26,380 | DEBUG | 23187.27
-2020-11-23 19:30:26,380 | DEBUG | 20202.08
-2020-11-23 19:30:26,380 | DEBUG | 19047.36
-2020-11-23 19:30:26,380 | DEBUG | 16634.55
-2020-11-23 19:30:26,380 | DEBUG | 12541.66
-2020-11-23 19:30:26,380 | DEBUG | 5046.70
-2020-11-23 19:30:26,380 | DEBUG | 2677.56
-2020-11-23 19:30:26,380 | DEBUG | 158.12
-2020-11-23 19:30:26,380 | DEBUG | -------------------------------------------------------------------------------------------------------------
+2020-11-24 17:08:58,472 | DEBUG | ---------------------------------------------------------------------------STATE---------------------------------------------------------------------------
+2020-11-24 17:08:58,472 | DEBUG | [State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 17:08:58,473 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 17:08:58,475 | DEBUG | ---------------------------------------------------------------------------STATE-ID---------------------------------------------------------------------------
+2020-11-24 17:08:58,475 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 17:08:58,475 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 17:08:58,477 | DEBUG | ---------------------------------------------------------------------------HOUSING-DENSITY---------------------------------------------------------------------------
+2020-11-24 17:08:58,477 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 17:08:58,477 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 17:08:58,478 | DEBUG | ---------------------------------------------------------------------------POPULATION-DENSITY---------------------------------------------------------------------------
+2020-11-24 17:08:58,479 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 17:08:58,479 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 17:08:58,480 | DEBUG | ---------------------------------------------------------------------------STATE-SIZE---------------------------------------------------------------------------
+2020-11-24 17:08:58,480 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+]
+2020-11-24 17:08:58,480 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:18,097 | DEBUG | ---------------------------------------------------------------------------STATE---------------------------------------------------------------------------
+2020-11-24 18:10:18,097 | DEBUG | [State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 18:10:18,097 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:18,099 | DEBUG | ---------------------------------------------------------------------------STATE-ID---------------------------------------------------------------------------
+2020-11-24 18:10:18,099 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 18:10:18,099 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:18,101 | DEBUG | ---------------------------------------------------------------------------HOUSING-DENSITY---------------------------------------------------------------------------
+2020-11-24 18:10:18,101 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 18:10:18,101 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:18,102 | DEBUG | ---------------------------------------------------------------------------POPULATION-DENSITY---------------------------------------------------------------------------
+2020-11-24 18:10:18,103 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 18:10:18,103 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:18,104 | DEBUG | ---------------------------------------------------------------------------STATE-SIZE---------------------------------------------------------------------------
+2020-11-24 18:10:18,104 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+]
+2020-11-24 18:10:18,104 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:22,792 | DEBUG | ---------------------------------------------------------------------------STATE---------------------------------------------------------------------------
+2020-11-24 18:10:22,793 | DEBUG | [State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 18:10:22,793 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:22,795 | DEBUG | ---------------------------------------------------------------------------STATE-ID---------------------------------------------------------------------------
+2020-11-24 18:10:22,795 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+]
+2020-11-24 18:10:22,795 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:22,797 | DEBUG | ---------------------------------------------------------------------------HOUSING-DENSITY---------------------------------------------------------------------------
+2020-11-24 18:10:22,797 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 18:10:22,797 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:22,893 | DEBUG | ---------------------------------------------------------------------------POPULATION-DENSITY---------------------------------------------------------------------------
+2020-11-24 18:10:22,893 | DEBUG | [State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+]
+2020-11-24 18:10:22,893 | DEBUG | ========================================================================================================================================================================================================
+2020-11-24 18:10:22,900 | DEBUG | ---------------------------------------------------------------------------STATE-SIZE---------------------------------------------------------------------------
+2020-11-24 18:10:22,900 | DEBUG | [State_Id:AK, State:Alaska, Housing_units:306967, Total_area:1723338.01, Water_area:245383.68, Land_area:1477954.35, Population_Density:0.46, Housing_Density:0.19
+, State_Id:TX, State:Texas, Housing_units:9977436, Total_area:695662.15, Water_area:19074.63, Land_area:676587.52, Population_Density:37.18, Housing_Density:14.75
+, State_Id:CA, State:California, Housing_units:13680081, Total_area:423967.74, Water_area:20501.12, Land_area:403466.62, Population_Density:92.32, Housing_Density:33.90
+, State_Id:MT, State:Montana, Housing_units:482825, Total_area:380831.38, Water_area:3869.21, Land_area:376962.17, Population_Density:2.63, Housing_Density:1.27
+, State_Id:NM, State:New Mexico, Housing_units:901388, Total_area:314917.66, Water_area:756.67, Land_area:314161.00, Population_Density:6.56, Housing_Density:2.86
+, State_Id:AZ, State:Arizona, Housing_units:2844526, Total_area:295233.74, Water_area:1026.21, Land_area:294207.53, Population_Density:21.74, Housing_Density:9.65
+, State_Id:NV, State:Nevada, Housing_units:1173814, Total_area:286379.91, Water_area:2047.78, Land_area:284332.16, Population_Density:9.50, Housing_Density:4.13
+, State_Id:CO, State:Colorado, Housing_units:2212898, Total_area:269601.56, Water_area:1170.11, Land_area:268431.46, Population_Density:18.73, Housing_Density:8.26
+, State_Id:WY, State:Wyoming, Housing_units:261868, Total_area:253334.72, Water_area:1864.46, Land_area:251470.26, Population_Density:2.24, Housing_Density:1.04
+, State_Id:OR, State:Oregon, Housing_units:1675562, Total_area:254799.43, Water_area:6191.45, Land_area:248607.99, Population_Density:15.41, Housing_Density:6.76
+, State_Id:ID, State:Idaho, Housing_units:667796, Total_area:216442.74, Water_area:2397.89, Land_area:214044.85, Population_Density:7.34, Housing_Density:3.13
+, State_Id:UT, State:Utah, Housing_units:979709, Total_area:219882.07, Water_area:7063.58, Land_area:212818.49, Population_Density:12.97, Housing_Density:4.59
+, State_Id:KS, State:Kansas, Housing_units:1233215, Total_area:213100.13, Water_area:1345.86, Land_area:211754.27, Population_Density:13.47, Housing_Density:5.83
+, State_Id:MN, State:Minnesota, Housing_units:2347201, Total_area:225162.93, Water_area:18930.47, Land_area:206232.46, Population_Density:25.71, Housing_Density:11.39
+, State_Id:NE, State:Nebraska, Housing_units:796793, Total_area:200330.05, Water_area:1356.22, Land_area:198973.83, Population_Density:9.19, Housing_Density:4.02
+, State_Id:SD, State:South Dakota, Housing_units:363438, Total_area:199728.84, Water_area:3379.11, Land_area:196349.73, Population_Density:4.13, Housing_Density:1.85
+, State_Id:ND, State:North Dakota, Housing_units:317498, Total_area:183107.94, Water_area:4396.56, Land_area:178711.38, Population_Density:3.75, Housing_Density:1.78
+, State_Id:MO, State:Missouri, Housing_units:2712729, Total_area:180540.41, Water_area:2500.56, Land_area:178039.85, Population_Density:33.63, Housing_Density:15.25
+, State_Id:OK, State:Oklahoma, Housing_units:1664378, Total_area:181037.37, Water_area:3377.22, Land_area:177660.16, Population_Density:21.12, Housing_Density:9.38
+, State_Id:WA, State:Washington, Housing_units:2885677, Total_area:184660.98, Water_area:12541.85, Land_area:172119.13, Population_Density:39.07, Housing_Density:16.76
+, State_Id:GA, State:Georgia, Housing_units:4088801, Total_area:153910.54, Water_area:4951.21, Land_area:148959.36, Population_Density:65.02, Housing_Density:27.45
+, State_Id:MI, State:Michigan, Housing_units:4532233, Total_area:250487.02, Water_area:104051.84, Land_area:146435.19, Population_Density:67.49, Housing_Density:30.97
+, State_Id:IA, State:Iowa, Housing_units:1336417, Total_area:145746.02, Water_area:1076.61, Land_area:144669.41, Population_Density:21.04, Housing_Density:9.23
+, State_Id:IL, State:Illinois, Housing_units:5296715, Total_area:149995.52, Water_area:6202.04, Land_area:143793.47, Population_Density:89.23, Housing_Density:36.83
+, State_Id:WI, State:Wisconsin, Housing_units:2624358, Total_area:169634.97, Water_area:29366.78, Land_area:140268.16, Population_Density:40.54, Housing_Density:18.73
+, State_Id:FL, State:Florida, Housing_units:8989580, Total_area:170311.79, Water_area:31424.19, Land_area:138887.59, Population_Density:135.37, Housing_Density:64.71
+, State_Id:AR, State:Arkansas, Housing_units:1316299, Total_area:137731.91, Water_area:2960.54, Land_area:134771.37, Population_Density:21.62, Housing_Density:9.77
+, State_Id:AL, State:Alabama, Housing_units:2171853, Total_area:135767.46, Water_area:4596.56, Land_area:131170.90, Population_Density:36.45, Housing_Density:16.56
+, State_Id:NC, State:North Carolina, Housing_units:4327528, Total_area:139391.09, Water_area:13471.19, Land_area:125919.90, Population_Density:75.71, Housing_Density:34.36
+, State_Id:NY, State:New York, Housing_units:8108103, Total_area:141296.85, Water_area:19239.95, Land_area:122056.90, Population_Density:158.77, Housing_Density:66.45
+, State_Id:MS, State:Mississippi, Housing_units:1274719, Total_area:125437.83, Water_area:3907.00, Land_area:121530.80, Population_Density:24.40, Housing_Density:10.50
+, State_Id:PA, State:Pennsylvania, Housing_units:5567315, Total_area:119280.28, Water_area:3397.13, Land_area:115883.15, Population_Density:109.61, Housing_Density:48.03
+, State_Id:LA, State:Louisiana, Housing_units:1964981, Total_area:135658.83, Water_area:23761.16, Land_area:111897.67, Population_Density:40.50, Housing_Density:17.57
+, State_Id:TN, State:Tennessee, Housing_units:2812133, Total_area:109153.19, Water_area:2355.23, Land_area:106797.98, Population_Density:59.42, Housing_Density:26.33
+, State_Id:OH, State:Ohio, Housing_units:5127508, Total_area:116097.80, Water_area:10269.03, Land_area:105828.78, Population_Density:109.00, Housing_Density:48.46
+, State_Id:VA, State:Virginia, Housing_units:3364939, Total_area:110786.64, Water_area:8507.70, Land_area:102278.94, Population_Density:78.22, Housing_Density:32.90
+, State_Id:KY, State:Kentucky, Housing_units:1927164, Total_area:104655.80, Water_area:2386.57, Land_area:102269.23, Population_Density:42.43, Housing_Density:18.84
+, State_Id:IN, State:Indiana, Housing_units:2795541, Total_area:94326.27, Water_area:1537.00, Land_area:92789.27, Population_Density:69.88, Housing_Density:30.12
+, State_Id:ME, State:Maine, Housing_units:721830, Total_area:91633.17, Water_area:11750.32, Land_area:79882.85, Population_Density:16.64, Housing_Density:9.03
+, State_Id:SC, State:South Carolina, Housing_units:2137683, Total_area:82932.75, Water_area:5075.84, Land_area:77856.91, Population_Density:59.42, Housing_Density:27.45
+, State_Id:WV, State:West Virginia, Housing_units:881917, Total_area:62755.56, Water_area:496.84, Land_area:62258.72, Population_Density:29.77, Housing_Density:14.17
+, State_Id:MD, State:Maryland, Housing_units:2378814, Total_area:32131.23, Water_area:6989.58, Land_area:25141.65, Population_Density:229.65, Housing_Density:94.63
+, State_Id:VT, State:Vermont, Housing_units:322539, Total_area:24906.28, Water_area:1035.24, Land_area:23871.06, Population_Density:26.22, Housing_Density:13.51
+, State_Id:NH, State:New Hampshire, Housing_units:614754, Total_area:24214.23, Water_area:1026.96, Land_area:23187.27, Population_Density:56.76, Housing_Density:26.53
+, State_Id:MA, State:Massachusetts, Housing_units:2808254, Total_area:27335.76, Water_area:7133.69, Land_area:20202.08, Population_Density:324.09, Housing_Density:139.00
+, State_Id:NJ, State:New Jersey, Housing_units:3553562, Total_area:22591.39, Water_area:3544.04, Land_area:19047.36, Population_Density:461.58, Housing_Density:186.56
+, State_Id:HI, State:Hawaii, Housing_units:519508, Total_area:28313.05, Water_area:11678.50, Land_area:16634.55, Population_Density:81.78, Housing_Density:31.24
+, State_Id:CT, State:Connecticut, Housing_units:1487891, Total_area:14357.38, Water_area:1815.74, Land_area:12541.66, Population_Density:284.98, Housing_Density:118.65
+, State_Id:DE, State:Delaware, Housing_units:405885, Total_area:6445.76, Water_area:1399.06, Land_area:5046.70, Population_Density:177.92, Housing_Density:80.43
+, State_Id:RI, State:Rhode Island, Housing_units:463388, Total_area:4001.25, Water_area:1323.67, Land_area:2677.56, Population_Density:393.09, Housing_Density:173.05
+, State_Id:DC, State:District of Columbia, Housing_units:296719, Total_area:177.00, Water_area:18.88, Land_area:158.12, Population_Density:3805.61, Housing_Density:1876.61
+]
+2020-11-24 18:10:22,900 | DEBUG | ========================================================================================================================================================================================================
